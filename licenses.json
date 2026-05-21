@@ -2,21 +2,21 @@
   "licenses": [
     {
       "code": "LELINCARE-001",
-      "org": "芳心居家",
-      "expires": "2030-12-31",
-      "active": true
+      "active": true,
+      "expires": "2026-12-31",
+      "disk_id": "B589_5A9D_0B5B_020C"
     },
     {
       "code": "LELINCARE-002",
-      "org": "恩彩居家",
-      "expires": "2030-12-31",
-      "active": true
+      "active": true,
+      "expires": "2026-12-31",
+      "disk_id": ""
     },
     {
       "code": "LELINCARE-003",
-      "org": "心心居家",
-      "expires": "2030-12-31",
-      "active": true
+      "active": true,
+      "expires": "2026-12-31",
+      "disk_id": ""
     }
   ]
 }
